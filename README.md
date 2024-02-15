@@ -14,7 +14,7 @@ _
 
 If you want it to do more just ask, but I can't code so.
 
-I can't find the line anymore, but there was hot girl stackexchange stuff going on in the code at one point.
+I can't find the line anymore, but there was hot-girl-stackexchange stuff going on in the code at one point.
 It was ordering a dictionary or something.
 
 _
