@@ -96,9 +96,8 @@ def hintGenerate(stupidCount, anagram, lengthDict, nameDict):
         lengthDict = dict(shuffleDict)
 
         for key in lengthDict:
-            if(lengthDict[key] == wordLength or
-               maxL > lengthDict[key] and
-               lengthDict[key] > minL):
+            if(lengthDict[key] == wordLength or maxL > lengthDict[key]
+               and lengthDict[key] > minL):
                 hintList.append(key)
         if(len(hintList) < minimumHints):
             if(maxMargin <= minMargin):
